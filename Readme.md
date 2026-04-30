@@ -166,7 +166,7 @@ joblib
 - Les données OpenSky peuvent contenir des erreurs de capteur — certaines anomalies détectées sont des artefacts
 - Le scoring rule-based repose sur des seuils fixes, calibrables selon le contexte
 - Piste : enrichir avec des données météo pour contextualiser les anomalies d'altitude
-- Piste : scheduler l'ingestion toutes les 30 minutes pour un dashboard truly live
+- Piste : programmer l'ingestion toutes les 30 minutes pour un tableau de bord en temps réel.
 
 ---
 
