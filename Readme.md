@@ -1,4 +1,4 @@
-# ✈️ Aviation Risk — Détection d'anomalies de vol en temps réel
+# Aviation Risk — Détection d'anomalies de vol en temps réel
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4-orange)
