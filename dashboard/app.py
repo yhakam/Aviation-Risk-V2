@@ -13,8 +13,11 @@ RISK_COLORS = {"HIGH": "#E24B4A", "MEDIUM": "#EF9F27", "LOW": "#378ADD", "NORMAL
 def load_data() -> pd.DataFrame:
     path = Path("data/processed/benchmark.csv")
     if not path.exists():
-        st.error("Fichier introuvable")
-        st.stop()
+        path = Path("data/sample/benchmark_sample.csv")
+
+        if not path.exists():
+            st.error("Aucune donnée disponible. Ajoutez un sample")
+            st.stop()
     df = pd.read_csv(path)
     df["callsign"] = df["callsign"].fillna("UNKNOWN").str.strip()
     return df
