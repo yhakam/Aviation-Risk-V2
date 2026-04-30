@@ -95,7 +95,7 @@ Plutôt que d'appliquer directement un modèle ML, j'ai d'abord construit un sco
 Chaque vol reçoit un score entre 0 et 100 et une justification lisible : `"Vitesse anormale | Altitude anormale"`.
 
 > Les seuils sont calibrés sur les enveloppes de vol standard de l'aviation commerciale,
-> conformément aux spécifications ICAO — [Annex 6 (Operation of Aircraft)](https://www.icao.int/safety/airnavigation/nationalitymarks/annexes_booklet_en.pdf) et [Doc 8168 Vol.1](https://www.bazl.admin.ch/dam/fr/sd-web/BXuuLBFrFv0e/icao_doc_8168_aircraftoperations.pdf).
+> conformément aux spécifications ICAO — [Annex 6 (Operation of Aircraft)](https://elibrary.icao.int/reader/290990/&returnUrl%3DaHR0cHM6Ly9lbGlicmFyeS5pY2FvLmludC9leHBsb3JlO3NlYXJjaFRleHQ9YW5uZXglMjA2JTIwJUUyJTgwJTk0JTIwb3BlcmF0aW9uJTIwb2YlMjBhaXJjcmFmdCUyMC0lMjB2b2wuJTIwaTtwaHJhc2VNYXRjaD0wO3RoZW1lTmFtZT1CbHVlLVRoZW1l?productType=eBook) et [Doc 8168 Vol.1](https://www.bazl.admin.ch/dam/fr/sd-web/BXuuLBFrFv0e/icao_doc_8168_aircraftoperations.pdf).
 
 ### Benchmark Isolation Forest
 
