@@ -13,9 +13,9 @@ Projet Data Science de bout en bout : ingestion de données de trafic aérien en
 
 **Lien vers le dashboard** : https://aviation-risk-v2.streamlit.app/
 
-![Dashboard]()
+![Dashboard](assets/Aviation_Risk_Dashboard-1.png)
 
-![Analyse_Risque]()
+![Analyse_Risque](assets/Aviation_Risk_Dashboard-2.png)
 ---
 
 ## Architecture
