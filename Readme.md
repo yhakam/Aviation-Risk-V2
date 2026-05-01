@@ -173,4 +173,8 @@ joblib
 
 ---
 
+## Documentation
+-  [Annex 6 (Operation of Aircraft)](https://elibrary.icao.int/reader/290990/&returnUrl%3DaHR0cHM6Ly9lbGlicmFyeS5pY2FvLmludC9leHBsb3JlO3NlYXJjaFRleHQ9YW5uZXglMjA2JTIwJUUyJTgwJTk0JTIwb3BlcmF0aW9uJTIwb2YlMjBhaXJjcmFmdCUyMC0lMjB2b2wuJTIwaTtwaHJhc2VNYXRjaD0wO3RoZW1lTmFtZT1CbHVlLVRoZW1l?productType=eBook)
+-  [Doc 8168 Vol.1](https://www.bazl.admin.ch/dam/fr/sd-web/BXuuLBFrFv0e/icao_doc_8168_aircraftoperations.pdf)
+
 *Données : [OpenSky Network](https://opensky-network.org/) — open data, usage non commercial*
