@@ -29,7 +29,7 @@ aviation-risk-v2/
 │
 ├── src/
 │   ├── ingestion/
-│   │   └── fetch.py          # Appel API OpenSky + sauvegarde
+│   │   └── opensky_ingest.py          # Appel API OpenSky + sauvegarde
 │   ├── preprocessing/
 │   │   └── clean.py          # Nettoyage, typage, gestion des nulls
 │   ├── features/
